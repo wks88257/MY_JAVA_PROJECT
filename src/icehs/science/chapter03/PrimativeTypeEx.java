@@ -6,7 +6,7 @@ public class PrimativeTypeEx {
 		// TODO Auto-generated method stub
 		int myAge = 27;
 		long billWealth = 7000000000L;
-		double pi = 3.1415926535;
+		double pi = 3.1415926535 ;
 		boolean isRight = true;
 		
 		System.out.println("³» ³ªÀÌ:" + myAge);
